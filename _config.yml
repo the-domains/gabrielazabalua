@@ -1,0 +1,28 @@
+name: GabrielaZabalua
+favicon: null
+layout_spectrum: 0.7147229833062738
+typography_spectrum: 0.5176205351017416
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6804543910548091
+  lightness: 0.6638241840992123
+  saturation: 0.8322187827434391
+  rhythmicContrast: 0.007455721264705062
+purpose: []
